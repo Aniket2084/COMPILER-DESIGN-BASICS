@@ -37,7 +37,6 @@ isSymbol(char ch) checks if a character is a symbol like ;, ,, (, ), {, etc.
 
 
 **Main Function:**
-
 The file test.txt is opened in read mode using fopen.
 
 If the file is not found, it prints an error and exits.
