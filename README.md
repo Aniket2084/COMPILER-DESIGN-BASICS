@@ -17,7 +17,6 @@ This C program is a lexical analyzer, which means it reads a source code file an
 
 
 *Purpose of the Program:*
-
 The main goal is to analyze a file named test.txt, read the code inside it character by character, and print out whether each part is a keyword, identifier, operator, or symbol.
 
 
