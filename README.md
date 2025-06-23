@@ -79,3 +79,4 @@ This makes it easier to understand what each part of the code represents.
 This lexical analyzer reads code from a file and separates it into meaningful components. It recognizes C language keywords, variable names (identifiers), operators (like +, ==, etc.), and punctuation symbols. It uses functions to check and classify tokens and prints them out one by one. This is an essential part of compiler design and useful for beginners learning how programming languages are processed internally.
 
 ## test.txt flie
+![Image](https://github.com/user-attachments/assets/b3541099-1569-42fc-83a6-9f2df63ce5f1)
