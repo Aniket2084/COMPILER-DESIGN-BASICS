@@ -80,3 +80,7 @@ This lexical analyzer reads code from a file and separates it into meaningful co
 
 ## test.txt flie
 ![Image](https://github.com/user-attachments/assets/b3541099-1569-42fc-83a6-9f2df63ce5f1)
+
+
+### Output 
+![Image](https://github.com/user-attachments/assets/3505a399-7ca6-4868-86ea-c02137685ad3)
